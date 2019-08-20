@@ -3,8 +3,7 @@
 инструкция:
 1. скачать
 2. распаковать куда надо
-3. в зависимости от задания
-3.1. bin/debug/.exe
-3.2. Point.cs и Vector.cs
-4. ???
-5. profit
+3. первое задание - SiburTest1/bin/debug/.exe
+4. второе задание - SiburTest2/Point.cs и Vector.cs
+5. ???
+6. profit
