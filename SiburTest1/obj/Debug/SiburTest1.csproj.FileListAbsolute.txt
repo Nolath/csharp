@@ -1,0 +1,7 @@
+C:\Users\Nolath\source\repos\SiburTest1\SiburTest1\obj\Debug\SiburTest1.csprojAssemblyReference.cache
+C:\Users\Nolath\source\repos\SiburTest1\SiburTest1\obj\Debug\SiburTest1.csproj.CoreCompileInputs.cache
+C:\Users\Nolath\source\repos\SiburTest1\SiburTest1\bin\Debug\SiburTest1.exe.config
+C:\Users\Nolath\source\repos\SiburTest1\SiburTest1\bin\Debug\SiburTest1.exe
+C:\Users\Nolath\source\repos\SiburTest1\SiburTest1\bin\Debug\SiburTest1.pdb
+C:\Users\Nolath\source\repos\SiburTest1\SiburTest1\obj\Debug\SiburTest1.exe
+C:\Users\Nolath\source\repos\SiburTest1\SiburTest1\obj\Debug\SiburTest1.pdb
